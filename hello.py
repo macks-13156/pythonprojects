@@ -1,6 +1,7 @@
-import os
-import sys
-import random
-import math
+
+
+
+x = 4
 
 print ("hello world")
+print (x * 4)
